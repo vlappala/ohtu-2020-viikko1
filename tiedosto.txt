@@ -1,3 +1,11 @@
 Säätöä klo 14.41
 
 Tehty muutos harjoiituksen vuoksi kello 14.44
+
+Properties of unit vector:
+
+Unit vectors are used to define directions in a coordinate system.
+Any vectors can be written as a product of a unit vector and a scalar magnitude.
+Orthonormal vectors:
+These are the vectors with unit magnitude. Now, take the same 2 vectors which are orthogonal to each other and you know that when I take a dot product between these 2 vectors it is going to 0. So If we also impose the condition that we want each of these vectors to have unit magnitude then what we could possibly do is by taking this vector and then divide this vector by the magnitude of this vector as we see in unit vector. Now we can write v1 and v2 as
+
