@@ -2,7 +2,7 @@ Säätöä klo 14.41
 
 Tehty muutos harjoiituksen vuoksi kello 14.44
 
-Properties of unit vector:
+Properties of uni *POISTO 2.11.2020* vector:
 
 Unit vectors are used to define directions in a coordinate system.
 Any vectors can be written as a product of a unit vector and a scalar magnitude.
@@ -10,3 +10,5 @@ Orthonormal vectors:
 These are the vectors wi
 
 LISÄÄ TÄHÄN
+
+MUUTOKSIA 2.11.2020
